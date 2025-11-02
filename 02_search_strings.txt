@@ -1,0 +1,11 @@
+PubMed search:
+(("tuberculosis, multidrug-resistant"[Mesh] OR MDR-TB OR "drug-resistant tuberculosis" OR "RR-TB")
+AND (BPaL OR BPaLM OR bedaquiline OR pretomanid OR linezolid OR moxifloxacin)
+AND (India OR Indian)
+AND (cost OR "economic evaluation" OR "cost-effectiveness" OR HTA OR "budget impact"))
+AND ("2005/01/01"[Date - Publication] : "3000"[Date - Publication])
+
+Also screen:
+- WHO consolidated guidelines on DR-TB
+- NTEP national DR-TB reports
+- TB Alliance BPaL publications

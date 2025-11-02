@@ -1,0 +1,20 @@
+{
+  "project": "hta_project_04_mdrtb_bpalm",
+  "timestamp": "2025-11-02T11:25:59",
+  "model_stdout": "Cost \u2013 Long regimen: 141200.0\nQALY \u2013 Long regimen: 1.321\nCost \u2013 BPaLM: 186500.0\nQALY \u2013 BPaLM: 1.4740000000000002\nICER (INR per QALY): 296078.43137254857\n",
+  "log": [
+    "=== Processing project: hta_project_04_mdrtb_bpalm ===",
+    "Protocol: loaded.",
+    "Search strings: loaded.",
+    "Literature search: starting...",
+    "Literature search: completed, extracted 10 data points.",
+    "Data processing: starting...",
+    "Data processing: completed, filled 10 rows.",
+    "R: executed.",
+    "R stderr:\n\u00e2\u201d\u20ac\u00e2\u201d\u20ac Attaching core tidyverse packages \u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac tidyverse 2.0.0 \u00e2\u201d\u20ac\u00e2\u201d\u20ac\n\u00e2\u0153\u201d dplyr     1.1.4     \u00e2\u0153\u201d readr     2.1.5\n\u00e2\u0153\u201d forcats   1.0.0     \u00e2\u0153\u201d stringr   1.5.2\n\u00e2\u0153\u201d ggplot2   4.0.0     \u00e2\u0153\u201d tibble    3.3.0\n\u00e2\u0153\u201d lubridate 1.9.4     \u00e2\u0153\u201d tidyr     1.3.1\n\u00e2\u0153\u201d purrr     1.1.0     \n\u00e2\u201d\u20ac\u00e2\u201d\u20ac Conflicts \u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac tidyverse_conflicts() \u00e2\u201d\u20ac\u00e2\u201d\u20ac\n\u00e2\u0153\u2013 dplyr::filter() masks stats::filter()\n\u00e2\u0153\u2013 dplyr::lag()    masks stats::lag()\n\u00e2\u201e\u00b9 Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors\nError: 'data/mdrtb_bpalm_search_results.csv' does not exist in current working directory ('D:/research-automation/HTA projects').\nExecution halted\n",
+    "Model: executed 04_mdrtb_model.py",
+    "Model stdout:\nCost \u2013 Long regimen: 141200.0\nQALY \u2013 Long regimen: 1.321\nCost \u2013 BPaLM: 186500.0\nQALY \u2013 BPaLM: 1.4740000000000002\nICER (INR per QALY): 296078.43137254857\n",
+    "Manuscript generation: starting...",
+    "Manuscript generation: completed."
+  ]
+}

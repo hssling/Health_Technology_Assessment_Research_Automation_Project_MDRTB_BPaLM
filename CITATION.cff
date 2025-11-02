@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "MDR-TB BPaLM Regimen Assessment Dashboard"
+authors:
+- family-names: "Siddalingaiah H S"
+  given-names: ""
+  orcid: ""
+  affiliation: "Professor, Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumkur"
+repository-code: "https://github.com/hssling/hta-mdrtb-bpalm-dashboard"
+url: "https://hta-mdrtb-bpalm.streamlit.app/"
+license: MIT
+preferred-citation:
+  type: software
+  authors:
+  - family-names: "Siddalingaiah H S"
+    given-names: ""
+    orcid: ""
+    affiliation: "Professor, Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumkur"
+  doi: "10.5281/zenodo.123456789"
+  journal: ""
+  month: 11
+  pages: ""
+  title: "MDR-TB BPaLM Regimen Assessment: Interactive Visualization of Economic Evaluation in India"
+  volume: ""
+  year: 2025
