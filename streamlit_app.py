@@ -93,7 +93,7 @@ def main():
         st.markdown("---")
         st.markdown("### 📈 Key Metrics")
 
-        icer_value = Cost-Effective
+        icer_value = "Cost-Effective"
         if isinstance(icer_value, str):
             st.metric("ICER", icer_value, "Good Value")
         else:
@@ -127,11 +127,7 @@ def main():
 
         with col1:
             st.markdown('<div class="metric-card">', unsafe_allow_html=True)
-            if isinstance(Cost-Effective, str):
-                st.metric("ICER", "Cost-Effective", "Good Value")
-            else:
-                icer_formatted = f"₹{config['icer']:,.0f}/QALY"
-                st.metric("ICER", icer_formatted, "Good Value")
+            st.metric("ICER", "Cost-Effective", "Good Value")
             st.markdown('</div>', unsafe_allow_html=True)
 
         with col2:
